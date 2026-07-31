@@ -1,6 +1,6 @@
 # <h1 align="center">Hi 👋, I'm Md Arfakshad</h1>
 
-<h3 align="center">Software Developer • Machine Learning Engineer • Data Analyst</h3>
+<h3 align="center">Software Developer • Data Science • Data Analyst</h3>
 
 <p align="center">
 🎓 <strong>B.Tech in Computer Science & Engineering (2026)</strong><br>
