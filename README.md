@@ -1,41 +1,56 @@
-# 👋 Hi, I'm Md Arfakshad
+# <h1 align="center">Hi 👋, I'm Md Arfakshad</h1>
 
-## 💻 Software Developer | 🤖 Machine Learning Engineer | 📊 Data Analyst
+<h3 align="center">Software Developer • Machine Learning Engineer • Data Analyst</h3>
 
-🎓 B.Tech in Computer Science & Engineering (2026) from Integral University, Lucknow with a **9.5 CGPA** and **GATE 2026 Qualified**.
-
-I enjoy building intelligent applications, developing full-stack web solutions, and transforming data into meaningful insights through Machine Learning and Data Analytics.
+<p align="center">
+🎓 <strong>B.Tech in Computer Science & Engineering (2026)</strong><br>
+🏛️ Integral University, Lucknow<br>
+⭐ <strong>CGPA: 9.5</strong> | 🏅 <strong>GATE 2026 Qualified</strong>
+</p>
 
 ---
 
-## 🚀 Tech Stack
+## 👨‍💻 About Me
 
-### Programming Languages
+I'm a passionate **Software Developer**, **Machine Learning Engineer**, and **Data Analyst** who enjoys building intelligent applications and solving real-world problems using data.
+
+- 💻 Passionate about Software Development, Machine Learning, and Data Analytics.
+- 🚀 Building scalable web applications and intelligent ML solutions.
+- 📊 Experienced in developing end-to-end Machine Learning projects with interactive dashboards.
+- 🌱 Currently learning **Deep Learning**, **Generative AI**, and **Cloud Deployment**.
+- 🎯 Looking for opportunities as a **Software Developer**, **Machine Learning Engineer**, or **Data Analyst**.
+
+---
+
+# 🚀 Tech Stack
+
+### 💻 Programming Languages
 - Python
 - JavaScript
 - SQL
 
-### Web Development
+### 🌐 Web Development
 - HTML5
 - CSS3
 - Node.js
 - Express.js
 - MongoDB
 
-### Data Science & Machine Learning
-- Pandas
-- NumPy
+### 🤖 Machine Learning & Data Science
 - Scikit-learn
 - XGBoost
+- Pandas
+- NumPy
 - Machine Learning
 - Data Analysis
+- Statistics
 
-### Data Visualization
+### 📊 Data Visualization
 - Power BI
 - Plotly
 - Matplotlib
 
-### Tools
+### ⚙️ Tools
 - Git
 - GitHub
 - VS Code
@@ -43,45 +58,72 @@ I enjoy building intelligent applications, developing full-stack web solutions, 
 
 ---
 
-## 🌟 Featured Projects
+# 🌟 Featured Projects
 
-### 🏠 California House Price Prediction
-- Machine Learning Regression Model
-- Interactive Streamlit Dashboard
-- **Live Demo:** https://california-house-price-prediction-na97v9zcvzqvg6xrjmwzud.streamlit.app
+## 🏠 California House Price Prediction
 
-### ❤️ Heart Disease Prediction
-- KNN-based Machine Learning Model
-- Interactive Streamlit Web Application
-- **Live Demo:** https://heart-disease-prediction-rkwpewsamvgz36azsnjuqc.streamlit.app/
+A Machine Learning regression application that predicts California house prices using an interactive Streamlit dashboard.
 
-### 💳 Credit Card Fraud Detection
-- Fraud Detection using Machine Learning
-- Interactive Streamlit Dashboard
-- *(Deploying Soon)*
-
-### 🌍 Wanderlust
-- Full Stack Travel Booking Web Application
-- Node.js • Express.js • MongoDB
+🔗 **Live Demo:**  
+https://california-house-price-prediction-na97v9zcvzqvg6xrjmwzud.streamlit.app
 
 ---
 
-## 🏆 Achievements
+## ❤️ Heart Disease Prediction
 
-- 🎓 B.Tech CSE (2026)
-- ⭐ 9.5 CGPA
+A K-Nearest Neighbors (KNN) based Machine Learning web application that predicts heart disease risk using patient health information.
+
+🔗 **Live Demo:**  
+https://heart-disease-prediction-rkwpewsamvgz36azsnjuqc.streamlit.app/
+
+---
+
+## 💳 Credit Card Fraud Detection
+
+A Machine Learning application that detects fraudulent credit card transactions with real-time predictions and an interactive dashboard.
+
+🔗 **Live Demo:**  
+https://arfakshad-hekbl5zi2c7hpmpflfp7yy.streamlit.app/
+
+---
+
+## 🌍 Wanderlust
+
+A Full-Stack Travel Booking Web Application built using:
+
+- Node.js
+- Express.js
+- MongoDB
+- JavaScript
+
+---
+
+# 🏆 Achievements
+
+- 🎓 B.Tech in Computer Science & Engineering (2026)
+- ⭐ CGPA: **9.5**
 - 🏅 GATE 2026 Qualified
-- 💼 Completed Multiple Internships
-- 🚀 Built and Deployed Multiple Machine Learning Applications
+- 💼 Completed internships in Data Analytics and Web Development
+- 🚀 Successfully built and deployed multiple Machine Learning applications
+- 💡 Passionate about solving real-world problems through technology
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
-- 🌐 Portfolio: https://arfakshad.github.io/portfolio/
-- 📧 Email: YOUR_EMAIL
+🌐 **Portfolio**  
+https://arfakshad.github.io/portfolio/
+
+💼 **LinkedIn**  
+https://www.linkedin.com/in/md-arfakshad-337323289
+
+📧 **Email**  
+mdarfakshadbth@gmail.com
 
 ---
 
-⭐ Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me.
+<h3 align="center">⭐ Thanks for visiting my GitHub profile!</h3>
+
+<p align="center">
+Feel free to explore my repositories, try my live projects, and connect with me. 🚀
+</p>
